@@ -1,14 +1,10 @@
 ---
-title: "Title Goes Here"
+title: "Ryan's Title"
 author:
-  - Myfirstname Mylastname:
-      email: fl@oneplace.edu
-      institute: [UofO]
+  - Ryan Munnikhuis:
+      email: Rmunnikhuis@bren.ucsb.edu 
+      institute: UCSB
       correspondence: true
-  - Yourfirstname Yourlastname:
-      email: fl@another.edu
-      institute: [UofA]
-      correspondence: false
 institute:
   - UofO: University of One Place
   - UofA: University of Another Place
